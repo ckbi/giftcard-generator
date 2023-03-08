@@ -8,7 +8,7 @@ def g(choice):
         result = result + c
         choice=choice-1
     return result
-print("quanti codici vuoi generare?")
+print("how much codes?")
 number = input(">")
 print("")
 n = int(number)
